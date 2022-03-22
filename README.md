@@ -13,7 +13,7 @@
 - 🌐 know more about me here 👉 https://infosecadam.com
 
 ## Social Media
-<a href="https://www.linkedin.com/in/aadham-muhammed">
+<a href="https://www.linkedin.com/in/aadham-muhammed/">
   <img align="left" alt="Aadham's LinkedIn" width="30px" src="https://img.icons8.com/color/linkedin.png"/>
 </a>
 <a href="https://twitter.com/ha3k4r" target="_blank">
