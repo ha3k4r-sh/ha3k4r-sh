@@ -27,10 +27,3 @@
 </a>
 
 <br>
-
-
-## GitHub Stats
-![img](https://github-readme-stats.vercel.app/api?username=ha3k4r.sh&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha3k4r.sh&layout=compact&line_height=27&hide_border=true&theme=tokyonight)
