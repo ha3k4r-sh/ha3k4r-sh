@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Bug Hunting and learning.
 - 🤔 I’m looking for help with collaborative learning.
 - 💬 Ask me about Information Security and Penetration Testing.
-- 🌐 know more about me here 👉 https://infosecadam.com
+
 
 ## Social Media
 <a href="https://www.linkedin.com/in/aadham-muhammed/">
@@ -21,9 +21,6 @@
 </a>
 <a href="mailto:aadham.m@outlook.com" target="_blank">
   <img align="left" alt="Aadham's E-Mail" width="30px" src="https://img.icons8.com/color/microsoft-outlook-2019--v2.png" />
-</a>
-<a href="https://infosecadam.com" target="_blank">
-  <img align="left" alt="Aadham's Website" width="30px" src="https://img.icons8.com/color/web.png" />
 </a>
 
 <br>
