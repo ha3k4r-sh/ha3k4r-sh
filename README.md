@@ -2,12 +2,9 @@
 
 ### Hi there, I'm Aadham Muhammed AKA [ha3k4r](https://twitter.com/ha3k4r)
 
-*Hey everyone! My name is Aadham, and I'm currently working in the cybersecurity realm as a infosec implementation, performing security testing ranging from network security, network penetration, web application assessments to social engineering and physical engagements.*
+*Hey everyone! My name is Aadham, and I'm currently working in the cybersecurity realm as a infosec implementation, performing security testing ranging from network security, network penetration on IT/OT envionments, web application assessments to social engineering and physical engagements.*
 
 - 🔭 I’m currently working as Senior Information Security Consultant in ** TÜV Rheinland, Muscat **
-- 🐞 I'm an Occassional Bug Bounty Hunter.
-- 📖 I’m currently learning GraphQL Hacking, OSCP and Bug Bounty reports from [HackerOne](https://hackerone.com).
-- 👯 I’m looking to collaborate on Bug Hunting and learning.
 - 🤔 I’m looking for help with collaborative learning.
 - 💬 Ask me about Information Security and Penetration Testing.
 
